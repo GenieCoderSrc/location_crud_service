@@ -17,8 +17,7 @@ dependencies:
   i_tdd: ^0.0.1
   navigation_wihout_context: ^0.0.1
   get_it_di_global_variable: ^0.0.4
-  location:
-    path: ../location
+  location_reader: ^0.0.1
 
   geoflutterfire_plus: ^0.0.32
 
