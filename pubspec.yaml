@@ -1,7 +1,9 @@
 name: location_crud_service
-description: "A new Flutter package project."
+description: "A lightweight Dart service to update Firestore documents with the user's current location using GeoFirePoint, ideal for location-based Flutter apps."
 version: 0.0.1
-homepage:
+homepage: https://github.com/GenieCoderSrc/location_crud_service
+repository: https://github.com/GenieCoderSrc/location_crud_service
+issue_tracker: https://github.com/GenieCoderSrc/location_crud_service/issues
 
 environment:
   sdk: ^3.7.2
@@ -10,6 +12,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  firestore_db_impl: ^0.0.1
+  i_tdd: ^0.0.1
+  navigation_wihout_context: ^0.0.1
+  get_it_di_global_variable: ^0.0.4
+  location:
+    path: ../location
+
+  geoflutterfire_plus: ^0.0.32
 
 dev_dependencies:
   flutter_test:
@@ -22,6 +33,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
 
+example:
+  path: example
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
