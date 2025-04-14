@@ -1,6 +1,6 @@
 name: location_crud_service
 description: "A lightweight Dart service to update Firestore documents with the user's current location using GeoFirePoint, ideal for location-based Flutter apps."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/GenieCoderSrc/location_crud_service
 repository: https://github.com/GenieCoderSrc/location_crud_service
 issue_tracker: https://github.com/GenieCoderSrc/location_crud_service/issues
