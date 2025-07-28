@@ -13,11 +13,16 @@ dependencies:
   flutter:
     sdk: flutter
 
-  firestore_db_impl: ^0.0.1
-  i_tdd: ^0.0.1
-  navigation_wihout_context: ^0.0.1
-  get_it_di_global_variable: ^0.0.4
-  location_reader: ^0.0.1
+  firestore_db_impl:
+    path: ../firestore_db_impl
+  i_tdd:
+    path: ../i_tdd
+  navigation_wihout_context:
+    path: ../navigation_wihout_context
+  get_it_di_global_variable:
+    path: ../get_it_di_global_variable         
+  location_reader:
+    path: ../location_reader
 
   geoflutterfire_plus: ^0.0.32
 
