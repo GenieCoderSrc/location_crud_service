@@ -17,8 +17,8 @@ dependencies:
     path: ../firestore_db_impl
   i_tdd:
     path: ../i_tdd
-  navigation_wihout_context:
-    path: ../navigation_wihout_context
+  navigation_without_context:
+    path: ../navigation_without_context
   get_it_di_global_variable:
     path: ../get_it_di_global_variable         
   location_reader:
