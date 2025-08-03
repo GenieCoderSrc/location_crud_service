@@ -16,7 +16,7 @@ void main() {
 
   // Register the location CRUD service
   sl.registerLazySingleton<ILocationCrudService>(
-        () => LocationCrudServiceGeoFirePointFireStoreDataSourceImpl(
+    () => LocationCrudServiceGeoFirePointFireStoreDataSourceImpl(
       fireStoreDbService: sl(),
       iGeoFireLocationService: sl(),
     ),
@@ -32,9 +32,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Location CRUD Example',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
+      theme: ThemeData(primarySwatch: Colors.blue),
       home: const LocationUpdatePage(),
     );
   }
