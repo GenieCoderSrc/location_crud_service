@@ -23,8 +23,11 @@ dependencies:
     path: ../get_it_di_global_variable         
   location_reader:
     path: ../location_reader
+  geoflutterfire_plus:
+    path: ../geoflutterfire_plus
 
-  geoflutterfire_plus: ^0.0.33
+
+#  geoflutterfire_plus: ^0.0.33
 
 dev_dependencies:
   flutter_test:
