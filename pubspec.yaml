@@ -18,8 +18,6 @@ dependencies:
   navigation_without_context: ^0.0.3+1
   get_it_di_global_variable: ^0.0.5
   location_reader: ^0.0.5
-
-
   geo_lat_lon: ^0.0.3
 
 
