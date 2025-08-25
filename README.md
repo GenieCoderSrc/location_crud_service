@@ -16,7 +16,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  location_crud_service: ^0.0.2
+  location_crud_service: ^0.0.3
 ```
 
 Then run:
