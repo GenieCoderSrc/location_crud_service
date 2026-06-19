@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.0.6
+
+### Jun 15, 2026
+
+### ✨ Updated
+
+- Updated `get_it_di_global_variable` to 0.0.8
+- Updated `firestore_db_impl` to 0.0.7
+- Updated `location_reader` to 0.0.8
+
+
+## 0.0.5
+
+### Jun 15, 2026
+
+### ✨ Updated
+
+- Synchronized internal dependencies and updated version for stability.
+
 ## 0.0.4
 
 ### Sep 8, 2025
@@ -41,4 +60,3 @@ All notable changes to this project will be documented in this file.
 - Implementation using Firestore and GeoFirePoint.
 - Simple API to update location field in Firestore documents.
 - Example usage and basic dependency injection setup.
-
