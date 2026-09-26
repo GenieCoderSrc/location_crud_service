@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.0.7
+
+### Sep 26, 2026
+
+### ✨ Updated
+
+- Updated `geo_lat_lon` to 0.0.7
+- Updated `location_reader` to 0.0.9
+
 ## 0.0.6
 
 ### Jun 15, 2026
