@@ -15,6 +15,8 @@ A lightweight and extensible Dart package for updating user location data in Fir
 Add this to your `pubspec.yaml`:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   location_crud_service: <latest_version>
 ```
